@@ -1,7 +1,5 @@
-# Spirited Art Bot
+# amazing Art
 
-## Live View
-Check out the live version of the project [https://t.me/SpiritedArtBot](https://t.me/SpiritedArtBot).
 
 ## Screenshots
 
